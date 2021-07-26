@@ -13,3 +13,13 @@
 	url = https://github.com/medewitt/staninside
 	shallow = true
 	registered = true
+[submodule "nccovid"]
+	path = nccovid
+	url = https://github.com/conedatascience/nccovid
+	shallow = true
+	registered = true
+[submodule "autotracer"]
+	path = autotracer
+	url = https://github.com/conedatascience/autotracer
+	shallow = true
+	registered = true

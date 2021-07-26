@@ -5,5 +5,11 @@
   },
   {
     "package": "staninside"
+  },
+  {
+    "package": "nccovid"
+  },
+  {
+    "package": "autotracer"
   }
 ]
