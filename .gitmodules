@@ -23,3 +23,8 @@
 	url = https://github.com/conedatascience/autotracer
 	shallow = true
 	registered = true
+[submodule "intervalcalc"]
+	path = intervalcalc
+	url = https://github.com/medewitt/intervalcalc
+	shallow = true
+	registered = true

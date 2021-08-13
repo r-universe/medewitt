@@ -11,5 +11,8 @@
   },
   {
     "package": "autotracer"
+  },
+  {
+    "package": "intervalcalc"
   }
 ]
