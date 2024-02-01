@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/medewitt/universe
+	url = https://github.com/medewitt/medewitt.r-universe.dev
 	branch = HEAD
 [submodule "autotracer"]
 	path = autotracer
